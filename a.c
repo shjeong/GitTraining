@@ -8,6 +8,8 @@ int main(void)
 	
 	i = 3;
 	
+	i = 4;
+	
 	return 0;
 }
 
